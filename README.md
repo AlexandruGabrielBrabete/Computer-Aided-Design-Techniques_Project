@@ -44,3 +44,7 @@ Multiple simulation analyses were used to validate the circuit:
 
 ## References
 See the full project documentation for schematics a simulation details
+
+## License
+
+This project is provided for academic and educational purposes. Distribution and reuse allowed with proper attribution.

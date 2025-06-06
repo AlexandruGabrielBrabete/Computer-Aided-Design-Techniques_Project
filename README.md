@@ -40,7 +40,7 @@ Multiple simulation analyses were used to validate the circuit:
 
 ## Author
 **Alexandru-Gabriel Brabete**  
-2nd Year, Series B, Group 2125  
+2nd Year 
 
 ## References
 See the full project documentation for schematics a simulation details

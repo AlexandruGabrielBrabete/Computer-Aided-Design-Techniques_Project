@@ -45,6 +45,13 @@ Multiple simulation analyses were used to validate the circuit:
 ## References
 See the full project documentation for schematics a simulation details
 
+## Author
+
+**Name:** Alexandru-Gabriel Brabete  
+**University:** Technical University of Cluj-Napoca  
+**Field:** Electronics, Telecommunications and Information Technology  
+**Year:** 2nd year.
+
 ## License
 
 This project is provided for academic and educational purposes. Distribution and reuse allowed with proper attribution.

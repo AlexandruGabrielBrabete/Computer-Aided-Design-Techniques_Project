@@ -38,10 +38,6 @@ Multiple simulation analyses were used to validate the circuit:
 - Standard analog components (resistors, TL082 op-amp, LEDs)
 - eTape liquid level sensor model
 
-## Author
-**Alexandru-Gabriel Brabete**  
-2nd Year 
-
 ## References
 See the full project documentation for schematics a simulation details
 
